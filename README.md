@@ -14,7 +14,7 @@ No database or authentication yet — lightweight and fast
 
 🖼️ Screenshot
 
-![image](https://github.com/user-attachments/assets/96d9bb67-4461-4c52-93c1-d8b0ca77fbdb)
+![Screenshot 2025-04-05 182038](https://github.com/user-attachments/assets/4738a837-d7dd-4dc7-87b5-d7a72fdaeb85)
 
 
 🛠️ Tech Stack
